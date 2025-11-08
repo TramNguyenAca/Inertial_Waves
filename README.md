@@ -1,26 +1,21 @@
-#############################################################
-######## Welcome to experiments with Inertial_Waves! ########
-#############################################################
-# This python code performs the inversion of solar differential rotation and viscosity presented in the scientific article
+# Welcome to experiments with Inertial_Waves!
 
-# Linear toroidal-inertial waves on a differentially rotating sphere with application to helioseismology: Modeling, forward and inverse problems
-# Authors: Tram Thi Ngoc Nguyen, Damien Fournier, Laurent Gizon, and Thorsten Hohage
-# DOI: https://doi.org/10.48550/arXiv.2507.20488
+This python code performs the inversion of solar differential rotation and viscosity presented in the scientific article
 
-# To recreate the numerical results presented therein, open and run the Jupyter notebook
+[*Linear toroidal-inertial waves on a differentially rotating sphere with application to helioseismology: Modeling, forward and inverse problems*](https://doi.org/10.48550/arXiv.2507.20488)
 
-# inertial-main.ipynb
+Authors: **Tram Thi Ngoc Nguyen**, Damien Fournier, Laurent Gizon, and Thorsten Hohage
 
-# The accompanying Python script
+To recreate the numerical results presented therein, open and run the Jupyter notebook
 
-# inertial-functions.py 
+**inertial-main.ipynb**
 
-# contains all funtions needed for the main file, and should not be executed independently
+The accompanying Python script
 
-# This code is expected to work on the majority of architectures.
+**inertial-functions.py**
 
-# Please contact nguyen@mps.mpg.de and tram.nguyen.aca@gmail.com for any questions.
+contains all funtions needed for the main file, and should not be executed independently. 
 
+This code is expected to work on the majority of architectures.
 
-
- 
+Please contact [nguyen@mps.mpg.de](mailto:nguyen@mps.mpg.de) and [tram.nguyen.aca@gmail.com](mailto:tram.nguyen.aca@gmail.com) for any questions.
